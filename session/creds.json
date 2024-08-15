@@ -1,1 +1,49 @@
-
+{"noiseKey":{"'private":
+{"type":"Buffer" "data":"2HWeiq0S9FKBKjJa6XUeyTU6j/
+C+080JPWLqF6pkulw="},"public":
+{"type":"Buffer", "data":"HYivoK4FSaeCXB2Cy9rPBK/
+8Mlo2v|GRucE3YqLLgnc="}},"pairingEphemeralKeyPair":
+{"private":
+{"type":"Buffer", "data":"oGx6qK+pL9xkkurtv91DjrPF2w+PTT/
+GaMf3rtOlu10="},"public":{"type":"Buffer" "data":"6/
+Bjf+ig7Qb2+phTeJkJT7k4qAeOunL4nT6W6zZXyEg="}},"signe
+didentityKey":{"'private":
+{"type":"Buffer", "data":"MKLfDP9POPMhcSd55pdgxVgvqvOrY
+SGbE0JrjjwmzkY="},"public":
+{"type":"Buffer", "data":"O2eXWhD9A+wefueC4WINdBXdKgfB
+ONGyNpWykm20fGU="}},"signedPrekey":{"keyPair":
+{"private":
+{"type":"Buffer" "data":"WMHzA4Fvp01|3XOC2R+5||Cg8ZvIIR
+XObKNBhnTeDFk="},"public":
+{"type":"Buffer" "data":"Jo37PJTN31NWSwBfKhrzyU5ZpYaRO
+CySvKOisX2sLWg="}},"signature" :
+{"type":"Buffer" "data":"pjLHtVkZ|
+FTzWDPsWVNnOzhUxAGHkoDedwGDUExZS6DVnE1pRXMuQ
+7HjMS3ArneBJo0ig7/
+|MujJ4FM3pqMwBg=="},"keyld":1},"registrationld":160,"advSe
+cretKey":"DcVcqGX803N2KUvK9hG2b0qGvQ8uwjZswujMrP/
+SghU=","processedHistoryMessages":
+[],"nextPreKeyld":32,"firstUnuploadedPreKeyld":32,"accountS
+yncCounter":0,"accountSettings":
+{"unarchiveChats":false},"deviceld":"8xQfMT7pTmWHIO3U3Z
+fdJA", "phoneld":"Oaab 46ae-200c-46e3-
+a1b3-80ed717428a0", "identityld":
+{"type":"Buffer", "data":"hOKR7d83NhvPc2U2X||2vYGr5Ek="},"
+registered":true, "backupToken":
+{"type":"Buffer","data":"fknXFNHR8|cAp7eYcRtvCHPWjeE="},"
+registration":),"pairingCode":"XXWC415Y" "me":
+{"id":"22551757363:77@s.whatsapp.net","lid":"18449896051
+1058:77@lid"), "account":
+{"details":"COP8ytOKEKDV9bUGGAEgACgA", "accountSignatu
+reKey":"KoFKE6mtBsCQ5NKTcHx0PesvbjcinikEeEXhbSK6THE
+=","accountSignature":"CUJZBNBQ+HbRswY9K5fAFL50VBeJ/
+GQ3jf|zla4mGXZ2|GXo0979rOElonRhNuOYnJXp3J9A6kZs2K
+DIEpSnDQ==","deviceSignature":"R18a/xuktXv|XoLqjXgbYC/
+JLmHskjhYgUj6dVkb17|o9bFyTykGO3HgmV8T7N9Wip1KHiFw
+dmoVST7YaCFCAg=="},"signalldentities":[{"identifier":
+{"name":"22551757363:77@s.whatsapp.net", "deviceld":0},"id
+entifierKey":
+{"type":"Buffer", "data":"BSqBShOprQbAkOTSk3B8dD3rL2431
+p4pBHhF4WOiukxx"}}],"platform":"iphone", "routinginfo":
+{"type":"Buffer", "data":"CBICA=="},"lastAccountSyncTimesta
+mp":1723689646,"lastPropHash":"3GgCQC"}
